@@ -35,6 +35,7 @@ Se analizaron tres conjuntos de datos de diversa naturaleza técnica para evalua
 | **Atributos** | 12 | 29 | 784 (28x28 píxeles) |
 | **Complejidad** | Baja | Media - Alta | Alta |
 | **Aplicación** | Clasificación de supervivencia | Segmentación y Reducción | Reconocimiento de caracteres |
+| **Enlace** | https://www.kaggle.com/competitions/titanic/data | https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis | https://www.kaggle.com/competitions/digit-recognizer/data |
 
 ### 4.1 Justificación del Dataset Seleccionado
 Se seleccionó el dataset **Customer Personality Analysis** por las siguientes razones técnicas:
